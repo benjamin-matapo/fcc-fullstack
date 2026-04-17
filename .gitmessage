@@ -1,0 +1,14 @@
+# type(scope): subject (keep under 72 chars)
+#
+# Types: feat | docs | fix | refactor | chore | test
+# Scopes: rwd | js | frontend-libs | python | db | backend
+#
+# Examples:
+#   feat(rwd): add cat photo app challenge solution
+#   docs(js): add notes on closure and scope
+#   fix(python): correct loop logic in scientific computing challenge
+#
+# Body (optional — explain *why*, not *what*):
+
+# Footer (optional):
+# closes #<issue-number>
