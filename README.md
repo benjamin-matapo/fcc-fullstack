@@ -1,6 +1,6 @@
 # freeCodeCamp Full Stack Developer v9
 
-> **Benjamin & Innocent** — working through the [freeCodeCamp Full Stack Developer v9 curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/) together, using this repo to practise real collaborative software engineering habits alongside the course itself.
+> **Benjamin & Innocent** - working through the [freeCodeCamp Full Stack Developer v9 curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/) together, using this repo to practise real collaborative software engineering habits alongside the course itself.
 
 ---
 
@@ -49,7 +49,7 @@ main
 ```
 
 **Rules:**
-- `main` is always stable — never commit directly to it.
+- `main` is always stable - never commit directly to it.
 - Branch names follow the pattern: `{author}/{module-number}-{module-short-name}-{section}`
   - Examples: `ben/01-rwd-challenges`, `innocent/04-python-notes`
 - Open a **Pull Request** to merge into `main`. The other person reviews before merging.
