@@ -1,5 +1,5 @@
-# [Module Name] - Notes
-<!-- Replace [Module Name] with e.g. "Responsive Web Design" -->
+# Python - Notes
+
 
 > Both contributors add notes under their own section. Each submodule block is independent - fill in what's relevant to you, skip what isn't. Aim for your own words throughout; rewriting in your own words is the single best thing you can do for retention.
 
@@ -9,8 +9,6 @@
 
 - [Innocent's Notes](#innocents-notes)
 - [Benjamin's Notes](#benjamins-notes)
-
----
 
 ---
 
