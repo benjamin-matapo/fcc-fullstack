@@ -71,3 +71,51 @@ Update each list item with the appropriate icon, based on current status
 feat(js): add <challenge name> solution
 docs(js): add notes on <topic>
 ```
+
+## Note Taking Steps
+
+The NOTES.md files have a template for one note taking session.
+
+Before we begin taking our notes, we'll copy and paste this, and add it below, to have an empty notes template for the next time we have a note taking session.
+
+We'll then replicate this process every time, to have consistent notes throughout.
+
+The note template to copy & paste for each session is everything below this line:
+
+---
+
+### Submodule: [Name]
+
+#### 🗓 Date completed
+
+#### 💡 What I learned
+
+-
+-
+-
+
+#### 🧠 Key concepts to remember
+
+| Concept | One-line summary |
+|---------|-----------------|
+| | |
+| | |
+
+#### 🔬 Code snippets / examples
+
+```html
+<!-- example -->
+```
+
+#### ❓ Questions / things I'm still unsure about
+
+-
+
+#### 🔗 Useful links
+
+-
+
+---
+<!-- End of submodule block -->
+
+---
