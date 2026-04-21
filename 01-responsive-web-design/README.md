@@ -3,11 +3,52 @@
 ## Progress
 
 | Submodule | Benjamin | Innocent |
-|-----------|----------|----------|
-| HTML | <ul> <li>Basic HTML 🔲</li> <li>Semantic HTML 🔲</li> <li>Forms & Tables 🔲</li> <li>Build a Survey Form (Cert Project) 🔲</li> <li>Accesibility 🔲</li> <li>HTML Review 🔲</li> <ul> | <ul> <li>Basic HTML 🔲</li> <li>Semantic HTML 🔲</li> <li>Forms & Tables 🔲</li> <li>Build a Survey Form (Cert Project) 🔲</li> <li>Accesibility 🔲</li> <li>HTML Review 🔲</li> <ul> |
-| Computers | <ul> <li>Computer Basics 🔲</li> <ul> | <ul> <li>Computer Basics 🔲</li> <ul> |
-| CSS | <ul> <li>Basic CSS 🔲</li> <li>Design 🔲</li> <li>Absolute & Relative Units 🔲</li> <li>Pseudo Classes & Elements 🔲</li> <li>Colours 🔲</li> <li>Styling Forms 🔲</li> <li>The Box Model 🔲</li> <li>Flexbox 🔲</li> <li>Build a Page of Playing Cards (Cert Project) 🔲</li> <li>Typography 🔲</li> <li>Accesibility 🔲</li> <li>Positioning 🔲</li> <li>Attribute Selectors 🔲</li> <li>Build a Book Inventory App (Cert Project) 🔲</li> <li>Responsive Design 🔲</li> <li>Build a Technical Documentation page (Cert Project) 🔲</li> <li>Variables 🔲</li> <li>Grid 🔲</li> <li>Build a Product Landing Page (Cert Project) 🔲</li> <li>Animations 🔲</li> <li>CSS Review 🔲</li> <ul> | <ul> <li>Basic CSS 🔲</li> <li>Design 🔲</li> <li>Absolute & Relative Units 🔲</li> <li>Pseudo Classes & Elements 🔲</li> <li>Colours 🔲</li> <li>Styling Forms 🔲</li> <li>The Box Model 🔲</li> <li>Flexbox 🔲</li> <li>Build a Page of Playing Cards (Cert Project) 🔲</li> <li>Typography 🔲</li> <li>Accesibility 🔲</li> <li>Positioning 🔲</li> <li>Attribute Selectors 🔲</li> <li>Build a Book Inventory App (Cert Project) 🔲</li> <li>Responsive Design 🔲</li> <li>Build a Technical Documentation page (Cert Project) 🔲</li> <li>Variables 🔲</li> <li>Grid 🔲</li> <li>Build a Product Landing Page (Cert Project) 🔲</li> <li>Animations 🔲</li> <li>CSS Review 🔲</li> <ul> |
-| RWD Cert Exam | 🔲 | 🔲 |
+|-----------|:--------:|:--------:|
+| **HTML** | | |
+| &nbsp;&nbsp;Basic HTML | 🔲 | 🔲 |
+| &nbsp;&nbsp;Semantic HTML | 🔲 | 🔲 |
+| &nbsp;&nbsp;Forms & Tables | 🔲 | 🔲 |
+| &nbsp;&nbsp;Accessibility | 🔲 | 🔲 |
+| &nbsp;&nbsp;HTML Review | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Survey Form_ | 🔲 | 🔲 |
+| **Computers** | | |
+| &nbsp;&nbsp;Computer Basics | 🔲 | 🔲 |
+| **CSS** | | |
+| &nbsp;&nbsp;Basic CSS | 🔲 | 🔲 |
+| &nbsp;&nbsp;Design | 🔲 | 🔲 |
+| &nbsp;&nbsp;Absolute & Relative Units | 🔲 | 🔲 |
+| &nbsp;&nbsp;Pseudo Classes & Elements | 🔲 | 🔲 |
+| &nbsp;&nbsp;Colours | 🔲 | 🔲 |
+| &nbsp;&nbsp;Styling Forms | 🔲 | 🔲 |
+| &nbsp;&nbsp;The Box Model | 🔲 | 🔲 |
+| &nbsp;&nbsp;Flexbox | 🔲 | 🔲 |
+| &nbsp;&nbsp;Typography | 🔲 | 🔲 |
+| &nbsp;&nbsp;Accessibility | 🔲 | 🔲 |
+| &nbsp;&nbsp;Positioning | 🔲 | 🔲 |
+| &nbsp;&nbsp;Attribute Selectors | 🔲 | 🔲 |
+| &nbsp;&nbsp;Responsive Design | 🔲 | 🔲 |
+| &nbsp;&nbsp;Variables | 🔲 | 🔲 |
+| &nbsp;&nbsp;Grid | 🔲 | 🔲 |
+| &nbsp;&nbsp;Animations | 🔲 | 🔲 |
+| &nbsp;&nbsp;CSS Review | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Page of Playing Cards_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Book Inventory App_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Technical Documentation Page_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Product Landing Page_ | 🔲 | 🔲 |
+| **🎓 RWD Certification Exam** | 🔲 | 🔲 |
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `rwd`
+
+```
+feat(rwd): add survey form cert project
+docs(rwd): add flexbox notes
+```
 
 ### Progress Status Updates Instructions
 

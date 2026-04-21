@@ -3,9 +3,34 @@
 ## Progress
 
 | Submodule | Benjamin | Innocent |
-|-----------|----------|----------|
-| Relational Databases | <ul> <li>Code Editors 🔲</li> <li>Bash Fundamentals 🔲</li> <li>SQL & PostresSQL 🔲</li> <li>Build a Celestial Bodies Database 🔲</li> <li>Bash Scripting 🔲</li> <li>SQL & Bash 🔲</li> <li>Build a World Cup Database 🔲</li> <li>Build a Salon Appointment Scheduler 🔲</li> <li>Git 🔲</li> <li>Build a Periodic Table Database 🔲</li> <li>Build a Number Guessing Game 🔲</li> <li>Relational Databases Review 🔲</li> <ul> | <ul> <li>Code Editors 🔲</li> <li>Bash Fundamentals 🔲</li> <li>SQL & PostresSQL 🔲</li> <li>Build a Celestial Bodies Database 🔲</li> <li>Bash Scripting 🔲</li> <li>SQL & Bash 🔲</li> <li>Build a World Cup Database 🔲</li> <li>Build a Salon Appointment Scheduler 🔲</li> <li>Git 🔲</li> <li>Build a Periodic Table Database 🔲</li> <li>Build a Number Guessing Game 🔲</li> <li>Relational Databases Review 🔲</li> <ul> |
-| Relational Databeses Review | 🔲 | 🔲 |
+|-----------|:--------:|:--------:|
+| **Relational Databases** | | |
+| &nbsp;&nbsp;Code Editors | 🔲 | 🔲 |
+| &nbsp;&nbsp;Bash Fundamentals | 🔲 | 🔲 |
+| &nbsp;&nbsp;SQL & PostgreSQL | 🔲 | 🔲 |
+| &nbsp;&nbsp;Bash Scripting | 🔲 | 🔲 |
+| &nbsp;&nbsp;SQL & Bash | 🔲 | 🔲 |
+| &nbsp;&nbsp;Git | 🔲 | 🔲 |
+| &nbsp;&nbsp;Relational Databases Review | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Celestial Bodies Database_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a World Cup Database_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Salon Appointment Scheduler_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Periodic Table Database_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Number Guessing Game_ | 🔲 | 🔲 |
+| **🎓 Relational Databases Certification Exam** | 🔲 | 🔲 |
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `db`
+
+```
+feat(db): add celestial bodies database cert project
+docs(db): add notes on SQL JOINs and foreign keys
+```
 
 ### Progress Status Updates Instructions
 

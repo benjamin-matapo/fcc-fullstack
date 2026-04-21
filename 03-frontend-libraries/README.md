@@ -3,9 +3,30 @@
 ## Progress
 
 | Submodule | Benjamin | Innocent |
-|-----------|----------|----------|
-| Front-End Developement Libraries | <ul> <li>React Fundamentals 🔲</li> <li>React State, Hooks, & Routing 🔲</li> <li>Building a Currency Converter (Cert Project) 🔲</li> <li>Performance 🔲</li> <li>Testing 🔲</li> <li>CSS Libraries & Frameworks 🔲</li> <li>Data Visualisation & D3 🔲</li> <li>TypeScript Fundamentals 🔲</li> <ul> | <ul> <li>React Fundamentals 🔲</li> <li>React State, Hooks, & Routing 🔲</li> <li>Building a Currency Converter (Cert Project) 🔲</li> <li>Performance 🔲</li> <li>Testing 🔲</li> <li>CSS Libraries & Frameworks 🔲</li> <li>Data Visualisation & D3 🔲</li> <li>TypeScript Fundamentals 🔲</li> <ul> |
-| Front-End Developement Libraries | 🔲 | 🔲 |
+|-----------|:--------:|:--------:|
+| **Front-End Development Libraries** | | |
+| &nbsp;&nbsp;React Fundamentals | 🔲 | 🔲 |
+| &nbsp;&nbsp;React State, Hooks, & Routing | 🔲 | 🔲 |
+| &nbsp;&nbsp;Performance | 🔲 | 🔲 |
+| &nbsp;&nbsp;Testing | 🔲 | 🔲 |
+| &nbsp;&nbsp;CSS Libraries & Frameworks | 🔲 | 🔲 |
+| &nbsp;&nbsp;Data Visualisation & D3 | 🔲 | 🔲 |
+| &nbsp;&nbsp;TypeScript Fundamentals | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Currency Converter_ | 🔲 | 🔲 |
+| **🎓 Front-End Libraries Certification Exam** | 🔲 | 🔲 |
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `frontend-libs`
+
+```
+feat(frontend-libs): add currency converter cert project
+docs(frontend-libs): add notes on React hooks
+```
 
 ### Progress Status Updates Instructions
 

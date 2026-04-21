@@ -3,9 +3,54 @@
 ## Progress
 
 | Submodule | Benjamin | Innocent |
-|-----------|----------|----------|
-| Python | <ul> <li>Python Basics 🔲</li> <li>Loops & Sequences 🔲</li> <li>Dictionaries & Sets 🔲</li> <li>Build a User Confiduration Manager 🔲</li> <li>Error Handling 🔲</li> <li>Classes & Objects 🔲</li> <li>OOP 🔲</li> <li>Build a Polygon Area Calculator 🔲</li> <li>Linear Data Structures 🔲</li> <li>Build a Hash Table 🔲</li> <li>Algorithms 🔲</li> <li>Implement the Tower of Hanoi Algorithm (Cert Project) 🔲</li> <li>Graphs & Trees 🔲</li> <li>Dynamic Programming 🔲</li> <li>Python Review</li> <ul> | <ul> <li>Python Basics 🔲</li> <li>Loops & Sequences 🔲</li> <li>Dictionaries & Sets 🔲</li> <li>Build a User Confiduration Manager 🔲</li> <li>Error Handling 🔲</li> <li>Classes & Objects 🔲</li> <li>OOP 🔲</li> <li>Build a Polygon Area Calculator 🔲</li> <li>Linear Data Structures 🔲</li> <li>Build a Hash Table 🔲</li> <li>Algorithms 🔲</li> <li>Implement the Tower of Hanoi Algorithm (Cert Project) 🔲</li> <li>Graphs & Trees 🔲</li> <li>Dynamic Programming 🔲</li> <li>Python Review</li> <ul> |
-| Python Cert Exam | 🔲 | 🔲 |
+|-----------|:--------:|:--------:|
+| **Python** | | |
+| &nbsp;&nbsp;Python Basics | 🔲 | 🔲 |
+| &nbsp;&nbsp;Loops & Sequences | 🔲 | 🔲 |
+| &nbsp;&nbsp;Dictionaries & Sets | 🔲 | 🔲 |
+| &nbsp;&nbsp;Error Handling | 🔲 | 🔲 |
+| &nbsp;&nbsp;Classes & Objects | 🔲 | 🔲 |
+| &nbsp;&nbsp;OOP | 🔲 | 🔲 |
+| &nbsp;&nbsp;Linear Data Structures | 🔲 | 🔲 |
+| &nbsp;&nbsp;Algorithms | 🔲 | 🔲 |
+| &nbsp;&nbsp;Graphs & Trees | 🔲 | 🔲 |
+| &nbsp;&nbsp;Dynamic Programming | 🔲 | 🔲 |
+| &nbsp;&nbsp;Python Review | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a User Configuration Manager_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Polygon Area Calculator_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Build a Hash Table_ | 🔲 | 🔲 |
+| &nbsp;&nbsp;📋 _Implement the Tower of Hanoi Algorithm_ | 🔲 | 🔲 |
+| **🎓 Python Certification Exam** | 🔲 | 🔲 |
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `python`
+
+```
+feat(python): add tower of hanoi cert project
+docs(python): add notes on OOP and class inheritance
+```
+
+**Legend:** 🔲 Not started &nbsp;|&nbsp; 🟡 In progress &nbsp;|&nbsp; ✅ Complete &nbsp;|&nbsp; 📋 Cert project
+
+---
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `python`
+
+```
+feat(python): add tower of hanoi cert project
+docs(python): add notes on OOP and class inheritance
+```
 
 ### Progress Status Updates Instructions
 

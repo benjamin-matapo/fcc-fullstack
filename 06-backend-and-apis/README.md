@@ -3,9 +3,35 @@
 ## Progress
 
 | Submodule | Benjamin | Innocent |
-|-----------|----------|----------|
-| Back-End Development and APIs | <ul> <li>Introduction to Node.js 🔲</li> <li>Node.js Core Modules 🔲</li> <li>Node Package Manager 🔲</li> <li>HTTP & the Web Standards Model 🔲</li> <li>REST API & Web Services 🔲</li> <li>Introduction to Express 🔲</li> <li>Express Middleware 🔲</li> <li>Error Handling in Express 🔲</li> <li>WebSockets</li> <li>Node & SQL 🔲</li> <li>Security & Privacy 🔲</li> <li>Authentication 🔲</li> <li>Toggling & Deployment 🔲</li> <ul> | <ul> <li>Introduction to Node.js 🔲</li> <li>Node.js Core Modules 🔲</li> <li>Node Package Manager 🔲</li> <li>HTTP & the Web Standards Model 🔲</li> <li>REST API & Web Services 🔲</li> <li>Introduction to Express 🔲</li> <li>Express Middleware 🔲</li> <li>Error Handling in Express 🔲</li> <li>WebSockets</li> <li>Node & SQL 🔲</li> <li>Security & Privacy 🔲</li> <li>Authentication 🔲</li> <li>Toggling & Deployment 🔲</li> <ul> |
-| Back-End Development and API Cert Exam | 🔲 | 🔲 |
+|-----------|:--------:|:--------:|
+| **Back-End Development & APIs** | | |
+| &nbsp;&nbsp;Introduction to Node.js | 🔲 | 🔲 |
+| &nbsp;&nbsp;Node.js Core Modules | 🔲 | 🔲 |
+| &nbsp;&nbsp;Node Package Manager | 🔲 | 🔲 |
+| &nbsp;&nbsp;HTTP & the Web Standards Model | 🔲 | 🔲 |
+| &nbsp;&nbsp;REST APIs & Web Services | 🔲 | 🔲 |
+| &nbsp;&nbsp;Introduction to Express | 🔲 | 🔲 |
+| &nbsp;&nbsp;Express Middleware | 🔲 | 🔲 |
+| &nbsp;&nbsp;Error Handling in Express | 🔲 | 🔲 |
+| &nbsp;&nbsp;WebSockets | 🔲 | 🔲 |
+| &nbsp;&nbsp;Node & SQL | 🔲 | 🔲 |
+| &nbsp;&nbsp;Security & Privacy | 🔲 | 🔲 |
+| &nbsp;&nbsp;Authentication | 🔲 | 🔲 |
+| &nbsp;&nbsp;Testing & Deployment | 🔲 | 🔲 |
+| **🎓 Back-End Development & APIs Certification Exam** | 🔲 | 🔲 |
+
+## Folder contents
+
+- `challenges/` - solution files for individual fCC challenges in this module
+- `notes/` - [`NOTES.md`](./notes/NOTES.md) - concept notes by submodule, both contributors
+- `exam-prep/` - [`EXAM-PREP.md`](./exam-prep/EXAM-PREP.md) - consolidated revision material
+
+## Commit scope: `db`
+
+```
+feat(db): add celestial bodies database cert project
+docs(db): add notes on SQL JOINs and foreign keys
+```
 
 ### Progress Status Updates Instructions
 
