@@ -5,7 +5,7 @@
 | Submodule | Benjamin | Innocent |
 |-----------|:--------:|:--------:|
 | **HTML** | | |
-| &nbsp;&nbsp;Basic HTML | 🔲 | 🔲 |
+| &nbsp;&nbsp;Basic HTML | 🟡 | 🔲 |
 | &nbsp;&nbsp;Semantic HTML | 🔲 | 🔲 |
 | &nbsp;&nbsp;Forms & Tables | 🔲 | 🔲 |
 | &nbsp;&nbsp;Accessibility | 🔲 | 🔲 |
