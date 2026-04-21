@@ -1,5 +1,4 @@
-# [Module Name] - Exam Prep
-<!-- Replace [Module Name] with e.g. "Responsive Web Design" -->
+# Relational Databases - Exam Prep
 
 > Use this file to consolidate what you need to know for the certification exam. It is not a second copy of your notes - it is a distillation. Write it late in the module once you have enough breadth to know what matters most.
 
@@ -10,8 +9,6 @@
 - [Innocent's Exam Prep](#innocents-exam-prep)
 
 - [Benjamin's Exam Prep](#benjamins-exam-prep)
-
----
 
 ---
 
