@@ -8,7 +8,7 @@
 
 | # | Module | Benjamin | Innocent |
 |---|--------|----------|----------|
-| 1 | [Responsive Web Design](./01-responsive-web-design/) | 🔲 Not started | 🔲 Not started |
+| 1 | [Responsive Web Design](./01-responsive-web-design/) | 🟡 Not started | 🔲 Not started |
 | 2 | [JavaScript](./02-javascript/) | 🔲 Not started | 🔲 Not started |
 | 3 | [Front-End Development Libraries](./03-frontend-libraries/) | 🔲 Not started | 🔲 Not started |
 | 4 | [Python](./04-python/) | 🔲 Not started | 🔲 Not started |
