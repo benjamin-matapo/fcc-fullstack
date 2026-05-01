@@ -153,6 +153,70 @@ This bookstore html snippet demonstrates the use of the different HTML elements 
 
 ---
 
+### Submodule: Basic HTML - HTML Fundamentals (Build an HTML music player)
+<!-- Duplicate this block for each submodule -->
+
+#### 🗓 Date completed
+<!-- e.g. 2025-04-21 -->
+> Friday, 1st May, 2026
+
+#### 💡 What I learned
+<!-- Bullet the main concepts. Write them as if explaining to someone who has never seen this before. -->
+
+- The `<audio>` HTML tag. Used to add an audio element in HTML
+- It has attributes such as `src`, `loop`, & `controls`
+  - The `src` attribute specifies where the audio file is coming from, can be a URL to a file online (as in the demo program), or a file on the local device.
+  - The `loop` attribute makes the audio loop when it's done. If ommited, the audio plays once. It's a boolean attrubute & doens't need a value (just need to say `loop` and not `loop=true` for example)
+  - The `controls` attribute makes the audio element have usable controls, like play/pause, scroll to seek, and time. It's also a boolean attrubute & doesn't need a value.
+
+
+#### 🔬 Code snippets / examples
+<!-- Paste any small examples that clicked for you. Add a comment above each explaining why it's here. -->
+
+```html
+<!-- example -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Working with the HTML Audio Element</title>
+</head>
+<body>
+  <h1>freeCodeCamp Tunes</h1>
+
+  <h2>Can't Stay Down</h2>
+  <p>Artist: Quincy Larson</p>
+  
+  <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/can't-stay-down.mp3" loop controls></audio>
+
+  <h2>Cruising for a Musing</h2>
+  <p>Artist: Quincy Larson</p>
+
+  <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3" loop controls></audio>
+
+  <h2>Scratching the Surface</h2>
+  <p>Artist: Quincy Larson</p>
+
+  <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3" loop controls></audio>  
+
+</body>
+</html>
+```
+
+#### ❓ Questions / things I'm still unsure about
+<!-- Anything to raise as a GitHub Issue or come back to in exam prep. -->
+
+- None.
+
+#### 🔗 Useful links
+<!-- MDN pages, articles, videos that actually helped. -->
+
+- None.
+
+---
+<!-- End of submodule block — copy from ### Submodule: [Name] to here for the next one -->
+
 ### Submodule: [Name]
 <!-- Duplicate this block for each submodule -->
 
